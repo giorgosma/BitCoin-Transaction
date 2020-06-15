@@ -1,0 +1,33 @@
+/requestTransaction aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 12345678987654321 01-01-0000 10:10
+/requestTransaction aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab 12345678987654212
+/requestTransaction imwatchingyou crystalsmith 1
+/requestTransaction richard hackerman 1 12-21-1221 12:22;
+/requestTransaction imwatchingyou crystalsmith 2
+/requestTransaction johnsmith shirleysparkerlittlewallet 4 03-1-2019 08:56
+/requestTransaction aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab 123456789 01-01-1212 12:12
+/requestTransaction imwatchingyou crystalsmith 3
+/requestTransactions richard hackerman 1 12-21-1221 12:22;
+
+/requestTransactions imwatchingyou crystalsmith 4;
+imwatchingyou crystalsmith 1;
+johnsmith shirleysparkerlittlewallet 4 03-2-2019 08:56;
+
+/requestTransactions newtransactions.txt
+/findPayments ricky [12:13] [01-02-2019] [13:14] [02-03-2020]
+/findPayments ricky [10:20] [11:30]
+/findPayments ricky [02-03-2015] [03-05-2016]
+/findPayments richard
+/findEarnings richard
+/findPayments richard [10:00] [13:00]
+/findEarnings richard [10:00] [01-01-2000] [18:31] [01-01-3000]
+/findEarnings crystalsmith
+/findEarnings crystalsmith [17:00] [18:31]
+/findEarnings crystalsmith [10:00] [01-01-2000] [13:00] [01-01-3000]
+/walletStatus ricky
+/walletStatus richard
+/walletStatus crystalsmith
+/asdasd
+/bitcoinStatus 3245
+/traceCoin 453
+/traceCoin 3245
+/exit
